@@ -12,7 +12,7 @@ function App() {
       return counter(count - 1)
     }
     else
-      return counter('0')
+      return counter(0)
     
   }
 
