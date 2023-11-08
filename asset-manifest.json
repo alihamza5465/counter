@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alihamza5465/counter.git/static/css/main.93c993e2.css",
+    "main.js": "/alihamza5465/counter.git/static/js/main.6181554b.js",
+    "index.html": "/alihamza5465/counter.git/index.html",
+    "main.93c993e2.css.map": "/alihamza5465/counter.git/static/css/main.93c993e2.css.map",
+    "main.6181554b.js.map": "/alihamza5465/counter.git/static/js/main.6181554b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93c993e2.css",
+    "static/js/main.6181554b.js"
+  ]
+}
