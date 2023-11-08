@@ -2,13 +2,18 @@ import React, { useState } from 'react';
 import './App.css'
 
 function App() {
-  const [count, counter] = useState(0)
+  let [count, counter] = useState(0)
   
   const increase = () =>{
     return counter(count+1)
   }
   const decrease = () =>{
-    return counter(count-1)
+    if (count > 1 ){
+      return counter(count - 1)
+    }
+    else
+      return counter('0')
+    
   }
 
   return (
